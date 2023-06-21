@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio para PrepCourse de Henry, Go!
+Esta es una prueba de como crear un repositorio y clonarlo. Luego subirlo desde VSCode
